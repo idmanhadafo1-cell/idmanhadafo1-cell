@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Idman 👋
 
-<!--
-**idmanhadafo1-cell/idmanhadafo1-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor's student in **Data and Information Science** at
+[TH Köln](https://www.th-koeln.de) (3rd semester, winter term 2026/27).
+I'm interested in [data integration](https://github.com/breuert/data-integration),
+open data and how information is used in organisations.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python (pandas, Jupyter)
+- SQL
+- Git & GitHub
+- Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [data-integration-labs](https://github.com/idmanhadafo1-cell/data-integration-labs) – lab submissions for the Data Integration course
+- *coming soon:* our group project – an open data pipeline
+
+## 🎯 Currently learning
+- Command line (bash) and version control
+- Web scraping and data cleaning
+
+## 📫 Contact
+- E-mail: [idman.hadafo@smail.th-koeln.de]
